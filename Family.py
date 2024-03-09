@@ -1,0 +1,6 @@
+a=input ('Enter your Father name:')
+b=input('Enter your mother name:')
+c=input('Enter your brother name:')
+print('Your father name is:',a)
+print('Your mother name is:',b)
+print('Your your brother name is:',c)
